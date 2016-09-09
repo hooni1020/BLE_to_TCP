@@ -1,0 +1,13 @@
+.\_build\mqttclient.o: ..\..\..\Wiznet\MQTTClient.c
+.\_build\mqttclient.o: ..\..\..\Wiznet\MQTTClient.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTConnect.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPublish.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTSubscribe.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTUnsubscribe.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTFormat.h
+.\_build\mqttclient.o: ..\..\..\..\..\..\MQTTPacket\src\StackTrace.h
+.\_build\mqttclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\_build\mqttclient.o: ..\..\..\Wiznet\mqtt_interface.h
+.\_build\mqttclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h

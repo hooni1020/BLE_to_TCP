@@ -1,0 +1,11 @@
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTDeserializePublish.c
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\StackTrace.h
+.\_build\mqttdeserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTConnect.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTPublish.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTSubscribe.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTUnsubscribe.h
+.\_build\mqttdeserializepublish.o: ..\..\..\..\..\..\MQTTPacket\src\MQTTFormat.h
+.\_build\mqttdeserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
